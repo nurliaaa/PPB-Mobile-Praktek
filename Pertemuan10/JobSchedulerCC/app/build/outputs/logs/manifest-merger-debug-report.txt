@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\d217e3a098761be425de0b996b9bf439\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\5709d06716e82ae18f8eead6113018e1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\61a3da378ebca8933eaaca395f2b3e05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\dbe21052936e19fde877e4dd614126cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\90c9c67a83087b6293233ad065c379d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\09262257adfa5563b4c4f61dd58766de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\ae2c0e056088bcce117262752ac9212b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\45e783bf6fcda4a99e80bef1732beff5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\0c244d2939d7e1a98b9e5a258516696a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\d7c346efede47db3dc06c84fa5944a47\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\d90f7fc5bfa66a8b8d3f8ce3c9bd3412\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\4001251d46a6e7fcec7c4fa988cbdf96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\c41deb773800c27612c6ee9291e30cac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\c04facd39b5ee730bbcb2328f7f021da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\90cd26b37c78f3412f28b825dac0d301\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\3ae87ccd300b4fd228f47c42c8dfb57e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\6ceaa8c72c385698ba5873e333e2fd4e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\7ce982afcc2401a096f9d307fb7b3b32\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\b5049991335adb1ed734514b1aba6407\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\c658a8396c50b39646c80b14198e4217\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\d4be05b0c8075511795209fdd82076db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\7d1f38c32e05e10c426cb4ef7c5c0c4b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\7ff7545d40758c0a4dde4b8e69312fd0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\64d53b69860c84d7826fad80b9ff5fad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\2e183e055a52a691fe15bc27cef8e4a8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\28fc519de48c29816b59e315866fa8b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\2c614e4c8283fcd1d9ca1cb0d2ab1e72\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\5709d06716e82ae18f8eead6113018e1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\5709d06716e82ae18f8eead6113018e1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\3ae87ccd300b4fd228f47c42c8dfb57e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\3ae87ccd300b4fd228f47c42c8dfb57e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\6ceaa8c72c385698ba5873e333e2fd4e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\6ceaa8c72c385698ba5873e333e2fd4e\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\3ae87ccd300b4fd228f47c42c8dfb57e\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:13:9-48
+	android:roundIcon
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:12:9-40
+service#me.mahakagg.jobschedulercc.SleeperJobScheduler
+ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:14:9-16:72
+	android:permission
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:16:13-69
+	android:name
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:15:13-48
+activity#me.mahakagg.jobschedulercc.MainActivity
+ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml
+INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\d217e3a098761be425de0b996b9bf439\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\d217e3a098761be425de0b996b9bf439\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\5709d06716e82ae18f8eead6113018e1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\5709d06716e82ae18f8eead6113018e1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\61a3da378ebca8933eaaca395f2b3e05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\61a3da378ebca8933eaaca395f2b3e05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\dbe21052936e19fde877e4dd614126cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\dbe21052936e19fde877e4dd614126cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\90c9c67a83087b6293233ad065c379d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\90c9c67a83087b6293233ad065c379d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\09262257adfa5563b4c4f61dd58766de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\09262257adfa5563b4c4f61dd58766de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\ae2c0e056088bcce117262752ac9212b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\ae2c0e056088bcce117262752ac9212b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\45e783bf6fcda4a99e80bef1732beff5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\45e783bf6fcda4a99e80bef1732beff5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\0c244d2939d7e1a98b9e5a258516696a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\0c244d2939d7e1a98b9e5a258516696a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\d7c346efede47db3dc06c84fa5944a47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\d7c346efede47db3dc06c84fa5944a47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\d90f7fc5bfa66a8b8d3f8ce3c9bd3412\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\d90f7fc5bfa66a8b8d3f8ce3c9bd3412\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\4001251d46a6e7fcec7c4fa988cbdf96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\4001251d46a6e7fcec7c4fa988cbdf96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\c41deb773800c27612c6ee9291e30cac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\c41deb773800c27612c6ee9291e30cac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\c04facd39b5ee730bbcb2328f7f021da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\c04facd39b5ee730bbcb2328f7f021da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\90cd26b37c78f3412f28b825dac0d301\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\90cd26b37c78f3412f28b825dac0d301\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\3ae87ccd300b4fd228f47c42c8dfb57e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\3ae87ccd300b4fd228f47c42c8dfb57e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\6ceaa8c72c385698ba5873e333e2fd4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\6ceaa8c72c385698ba5873e333e2fd4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\7ce982afcc2401a096f9d307fb7b3b32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\7ce982afcc2401a096f9d307fb7b3b32\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\b5049991335adb1ed734514b1aba6407\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\b5049991335adb1ed734514b1aba6407\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\c658a8396c50b39646c80b14198e4217\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\c658a8396c50b39646c80b14198e4217\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\d4be05b0c8075511795209fdd82076db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\d4be05b0c8075511795209fdd82076db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\7d1f38c32e05e10c426cb4ef7c5c0c4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\7d1f38c32e05e10c426cb4ef7c5c0c4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\7ff7545d40758c0a4dde4b8e69312fd0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\7ff7545d40758c0a4dde4b8e69312fd0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\64d53b69860c84d7826fad80b9ff5fad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\64d53b69860c84d7826fad80b9ff5fad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\2e183e055a52a691fe15bc27cef8e4a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\2e183e055a52a691fe15bc27cef8e4a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\28fc519de48c29816b59e315866fa8b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\28fc519de48c29816b59e315866fa8b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\2c614e4c8283fcd1d9ca1cb0d2ab1e72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\LIA\.gradle\caches\transforms-2\files-2.1\2c614e4c8283fcd1d9ca1cb0d2ab1e72\AndroidManifest.xml:20:5-44
+INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml
+INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml
+		ADDED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Lia\Kuliah\Semester 4\PPB (mobile)\Pertemuan9\JobSchedulerCC\app\src\main\AndroidManifest.xml
